@@ -9,7 +9,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class APIResponsseDto {
+public class APIResponseDto {
     private EmployeeDto employeeDto;
     private DepartmentDto departmentDto;
 }
